@@ -484,11 +484,11 @@
     }
     @media  screen and (max-width: 390px){
         .logo{
-            width: 80%;
+            width: 60%;
         }
-        .header{
+        /* .header{
             display: flex;
-        }
+        } */
         .h_b_right{
             display:none
         }
